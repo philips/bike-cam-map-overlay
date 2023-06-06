@@ -7,3 +7,5 @@ Included in this repo is the layout.xml ([docs](https://github.com/time4tea/gopr
 ```
 ./bin/gopro-dashboard.py --font Futura --use-gpx-only --gpx ~/Downloads/2023-06-06_07-47_Tue.gpx /Volumes/NO\ NAME/DCIM/100HSCAM/NORM0007.MP4  test.mp4 --overlay-size 1280x720 --layout xml --layout-xml layout.xml 
 ```
+
+![](screenshot.png)
